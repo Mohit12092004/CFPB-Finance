@@ -1,4 +1,4 @@
-📊 CFPB Consumer Complaints Performance & Resolution Analysis
+# CFPB Consumer Complaints Performance & Resolution Analysis
 
 📌 Project Description
 
